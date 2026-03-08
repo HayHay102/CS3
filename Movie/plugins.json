@@ -1,0 +1,639 @@
+[
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/gh/hung319/h4rs@main/avatar/six.webp",
+        "jarFileSize": 22,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "#Free Repo",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/#Free Repo.jar",
+        "description": "Free Repo From H4RS",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/#Free Repo.cs3",
+        "name": "#Free Repo"
+    },
+    {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 42163,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "SIX"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "1Sync",
+        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/1Sync.cs3",
+        "name": "1Sync"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://Anikoto.tv&sz=256",
+        "jarFileSize": 118913,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 26117,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "Anikoto",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikoto.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikoto.cs3",
+        "name": "Anikoto"
+    },
+    {
+        "iconUrl": "https://icons.duckduckgo.com/ip3/anikuro.ru.ico",
+        "jarFileSize": 175127,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 34396,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Anikuro",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikuro.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikuro.cs3",
+        "name": "Anikuro"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://Anime47.best&sz=256",
+        "jarFileSize": 198799,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 37390,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "Anime47",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anime47.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anime47.cs3",
+        "name": "Anime47"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://animehay.bid&sz=256",
+        "jarFileSize": 86052,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 23331,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "Animehay",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animehay.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animehay.cs3",
+        "name": "Animehay"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://anime6.site&sz=256",
+        "jarFileSize": 118268,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 30128,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoons",
+            "TvSeries"
+        ],
+        "version": 10,
+        "internalName": "Animet",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animet.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animet.cs3",
+        "name": "Animet"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://Animetm.tv&sz=256",
+        "jarFileSize": 61739,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 14286,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "Animetm",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animetm.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animetm.cs3",
+        "name": "Animetm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://animevietsub.lol&sz=256",
+        "jarFileSize": 120598,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 30342,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Cartoon",
+            "Movie"
+        ],
+        "version": 15,
+        "internalName": "Animevietsub",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animevietsub.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animevietsub.cs3",
+        "name": "Animevietsub"
+    },
+    {
+        "iconUrl": "https://icons.duckduckgo.com/ip3/animex.one.ico",
+        "jarFileSize": 185774,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 37917,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AnimeX",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeX.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeX.cs3",
+        "name": "AnimeX"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://BluPhim.uk.com&sz=256",
+        "jarFileSize": 118581,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 28244,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "BluPhim",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/BluPhim.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/BluPhim.cs3",
+        "name": "BluPhim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://boctem.com&sz=256",
+        "jarFileSize": 87512,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 24920,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoons"
+        ],
+        "version": 3,
+        "internalName": "Boctem",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Boctem.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Boctem.cs3",
+        "name": "Boctem"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://HHDRagon.com&sz=256",
+        "jarFileSize": 86707,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 23221,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "HHDRagon",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHDRagon.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHDRagon.cs3",
+        "name": "HHDRagon"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://HHKungfu.ee&sz=256",
+        "jarFileSize": 74318,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 19161,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 3,
+        "internalName": "HHKungfu",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHKungfu.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHKungfu.cs3",
+        "name": "HHKungfu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://hhninja.top&sz=256",
+        "jarFileSize": 97959,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 26314,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 6,
+        "internalName": "Hhninja",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Hhninja.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Hhninja.cs3",
+        "name": "Hhninja"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://HHTQ4K.top&sz=256",
+        "jarFileSize": 74756,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 17004,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "HHTQ4K",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHTQ4K.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHTQ4K.cs3",
+        "name": "HHTQ4K"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://hoathinh3d.name&sz=256",
+        "jarFileSize": 79307,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 23510,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 5,
+        "internalName": "HoatHinh3D",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinh3D.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinh3D.cs3",
+        "name": "HoatHinh3D"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://HHKungfu.click&sz=256",
+        "jarFileSize": 68013,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 14899,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "HoatHinhKungfu",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinhKungfu.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinhKungfu.cs3",
+        "name": "HoatHinhKungfu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://kkphim.com&sz=256",
+        "jarFileSize": 152488,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 30233,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 7,
+        "internalName": "KKPhim",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/KKPhim.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/KKPhim.cs3",
+        "name": "KKPhim"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://LongTiengPhim.com&sz=256",
+        "jarFileSize": 52509,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 14214,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "LongTiengPhim",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/LongTiengPhim.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/LongTiengPhim.cs3",
+        "name": "LongTiengPhim"
+    },
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
+        "jarFileSize": 143320,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 31256,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "NguonC",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/NguonC.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/NguonC.cs3",
+        "name": "NguonC"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://onflix.pro&sz=256",
+        "jarFileSize": 91021,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 20252,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Onflix",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Onflix.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Onflix.cs3",
+        "name": "Onflix"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://ophim16.cc&sz=256",
+        "jarFileSize": 103994,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 23144,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "Ophim",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Ophim.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Ophim.cs3",
+        "name": "Ophim"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/rupanh123-phap/PHAPFERRARI.github.io/refs/heads/main/phimdinhcao.png",
+        "jarFileSize": 116332,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 30554,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 5,
+        "internalName": "PhimDinhCao",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimDinhCao.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimDinhCao.cs3",
+        "name": "PhimDinhCao"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=http://phimhhtq.com&sz=256",
+        "jarFileSize": 45925,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 12593,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 3,
+        "internalName": "PhimHHTQ",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimHHTQ.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimHHTQ.cs3",
+        "name": "PhimHHTQ"
+    },
+    {
+        "iconUrl": "https://favicone.com/phimmoichill.bz?s=256",
+        "jarFileSize": 82942,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 20057,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries",
+            "AnimeMovie"
+        ],
+        "version": 4,
+        "internalName": "PhimMoiPlus",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimMoiPlus.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimMoiPlus.cs3",
+        "name": "PhimMoiPlus"
+    },
+    {
+        "iconUrl": "https://icons.duckduckgo.com/ip3/ridomovies.tv.ico",
+        "jarFileSize": 115405,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 27219,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "RidoMovies",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/RidoMovies.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/RidoMovies.cs3",
+        "name": "RidoMovies"
+    },
+    {
+        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 191489,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Torrent",
+            "AsianDrama",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "TorraStream",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/TorraStream.cs3",
+        "name": "TorraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://vietsubtv.run&sz=256",
+        "jarFileSize": 89269,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 21291,
+        "status": 0,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "VietsubTV",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/VietsubTV.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/VietsubTV.cs3",
+        "name": "VietsubTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://Yanhh3d.vip&sz=256",
+        "jarFileSize": 142283,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 26305,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 4,
+        "internalName": "Yanhh3d",
+        "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Yanhh3d.jar",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Yanhh3d.cs3",
+        "name": "Yanhh3d"
+    }
+]
