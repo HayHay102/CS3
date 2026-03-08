@@ -1,0 +1,8 @@
+{
+  "name": "ZeroNos Ext",
+  "description": "",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/ZeroNos-Ext/Movie/plugins.json"
+  ]
+}
