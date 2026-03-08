@@ -1,0 +1,53 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.hot&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com",
+        "fileSize": 11628,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "JavHDProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/nsfw/JavHDProvider.cs3",
+        "name": "JavHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.sale&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com",
+        "fileSize": 12085,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 10,
+        "internalName": "Sextop1Provider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/nsfw/Sextop1Provider.cs3",
+        "name": "Sextop1Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.bz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com",
+        "fileSize": 12400,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 6,
+        "internalName": "VlxxProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/nsfw/VlxxProvider.cs3",
+        "name": "VlxxProvider"
+    }
+]
