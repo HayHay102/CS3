@@ -635,5 +635,29 @@
         "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Yanhh3d.jar",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Yanhh3d.cs3",
         "name": "Yanhh3d"
-    }
+    },
+ {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
+    "status": 1,
+    "version": 34,
+    "name": "Youtube",
+    "internalName": "Youtube",
+    "authors": [
+      "Eagle",
+      "ByAyzen",
+      "Kraptor"
+    ],
+    "description": "Youtube",
+    "fileSize": 114801,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "Music",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "apiVersion": 1
+  }
 ]
