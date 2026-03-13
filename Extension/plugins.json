@@ -1,0 +1,88 @@
+[
+    {
+    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
+    "status": 1,
+    "version": 34,
+    "name": "Youtube",
+    "internalName": "Youtube",
+    "authors": [
+      "Eagle",
+      "ByAyzen",
+      "Kraptor"
+    ],
+    "description": "Youtube",
+    "fileSize": 114801,
+    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "Live",
+      "Music",
+      "TvSeries"
+    ],
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
+    "apiVersion": 1
+    },
+    {
+        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SyncStream.cs3",
+        "status": 3,
+        "version": 4,
+        "name": "SyncStream",
+        "internalName": "SyncStream",
+        "authors": [
+            "RowdyRushya, Phisher98, DieGon"
+        ],
+        "description": "Organizza homepage e sincronizza Continue Watching tra dispositivi",
+        "fileSize": 82868,
+        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "language": "it",
+        "tvTypes": [
+            "All"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
+        "apiVersion": 1
+    },
+    {
+        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 191489,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Torrent",
+            "AsianDrama",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "TorraStream",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/TorraStream.cs3",
+        "name": "TorraStream"
+    },
+    {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 42163,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "SIX"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "1Sync",
+        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/1Sync.cs3",
+        "name": "1Sync"
+    }
+]
