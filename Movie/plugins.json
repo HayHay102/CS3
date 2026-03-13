@@ -22,6 +22,25 @@
         "name": "#Free Repo"
     },
     {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 42163,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "SIX"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "1Sync",
+        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/1Sync.cs3",
+        "name": "1Sync"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://Anikoto.tv&sz=256",
         "jarFileSize": 118913,
         "apiVersion": 1,
