@@ -1,10 +1,32 @@
 [
+   {
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "fileSize": 83500,
+    "status": 1,
+    "authors": [
+      "Abodabodd"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live",
+      "Anime",
+      "Music",
+      "Documentary"
+    ],
+    "version": 2,
+    "internalName": "YouTube",
+    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Youtube.cs3",
+    "name": "YouTube"
+    },
     {
     "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
     "status": 1,
     "version": 34,
-    "name": "Youtube",
-    "internalName": "Youtube",
+    "name": "Youtube1",
+    "internalName": "Youtube1",
     "authors": [
       "Eagle",
       "ByAyzen",
