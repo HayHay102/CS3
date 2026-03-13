@@ -155,5 +155,25 @@
         "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
         "name": "StremioAddon"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
+        "status": 1,
+        "version": 7,
+        "name": "Footballia",
+        "internalName": "Footballia",
+        "authors": [
+            "kraptor",
+            "ByAyzen"
+        ],
+        "description": "1950\u2019lerden g\u00fcn\u00fcm\u00fcze\u2026 40.000\u2019den fazla ma\u00e7 ve 100.000\u2019den fazla oyuncu.",
+        "fileSize": 42559,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "language": "tr",
+        "tvTypes": [
+            "Live"
+        ],
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
+        "apiVersion": 1
     }
 ]
