@@ -630,5 +630,24 @@
         "description": "4k-FullHD",
         "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
         "name": "PhimViet"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/main/icon/sieutamphim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SieuTamPhim",
+        "description": "FullHD",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/ZeroNos-Ext/Movie/SieuTamPhim.cs3",
+        "name": "SieuTamPhim"
     }
 ]
