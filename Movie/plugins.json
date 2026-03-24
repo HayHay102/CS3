@@ -622,9 +622,9 @@
             "Linor"
         ],
         "tvTypes": [
+            "Movie",
             "Anime",
-            "TvSeries",
-            "Movie"
+            "TvSeries"
         ],
         "version": 2,
         "internalName": "SieuTamPhim",
