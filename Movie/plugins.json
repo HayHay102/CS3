@@ -83,11 +83,11 @@
         "name": "Anikuro"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=http://Anime47.best&sz=256",
-        "jarFileSize": 198799,
+        "iconUrl": "https://icons.duckduckgo.com/ip3/Anime47.best.ico",
+        "jarFileSize": 205373,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 37390,
+        "fileSize": 38993,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -96,7 +96,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "Anime47",
         "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anime47.jar",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anime47.cs3",
@@ -192,10 +192,10 @@
     },
     {
         "iconUrl": "https://icons.duckduckgo.com/ip3/animex.one.ico",
-        "jarFileSize": 185774,
+        "jarFileSize": 197540,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 37917,
+        "fileSize": 41040,
         "status": 1,
         "language": "en",
         "authors": [
@@ -204,14 +204,14 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "AnimeX",
         "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeX.jar",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeX.cs3",
         "name": "AnimeX"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://BluPhim.uk.com&sz=256",
+        "iconUrl": "https://icons.duckduckgo.com/ip3/bluphim5.com.ico",
         "jarFileSize": 118581,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
@@ -487,10 +487,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/rupanh123-phap/PHAPFERRARI.github.io/refs/heads/main/phimdinhcao.png",
-        "jarFileSize": 116332,
+        "jarFileSize": 118748,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 30554,
+        "fileSize": 31639,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -500,7 +500,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "PhimDinhCao",
         "jarUrl": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimDinhCao.jar",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimDinhCao.cs3",
@@ -613,7 +613,26 @@
         "name": "Yanhh3d"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimviet.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/sieutamphim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SieuTamPhim",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/SieuTamPhim.cs3",
+        "name": "Siêu Tầm Phim"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimviet.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "status": 1,
@@ -628,26 +647,8 @@
         "version": 2,
         "internalName": "PhimViet",
         "description": "4k-FullHD",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/
+/ZeroNos-Ext/Movie/PhimVieonBeta.cs3",
         "name": "PhimViet"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/main/icon/sieutamphim.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Linor"
-        ],
-        "tvTypes": [
-            "Anime",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SieuTamPhim",
-        "description": "FullHD",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/ZeroNos-Ext/Movie/SieuTamPhim.cs3",
-        "name": "SieuTamPhim"
     }
 ]
