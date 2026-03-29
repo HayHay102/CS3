@@ -69,7 +69,7 @@
         ],
         "version": 2,
         "internalName": "TvPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/TvPhim.cs3",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/refs/heads/main/TvPhim.cs3",
         "name": "TvPhimProvider"
     },
     {
