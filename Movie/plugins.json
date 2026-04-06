@@ -613,6 +613,29 @@
         "name": "Yanhh3d"
     },
     {
+        "iconUrl": "https://icons.duckduckgo.com/ip3/TokuVN.com.ico",
+        "jarFileSize": 85038,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 20548,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TokuVN",
+        "jarUrl": "https://raw.githubusercontent.com/h0dev/0cs3/movie/TokuVN.jar",
+        "url": "https://raw.githubusercontent.com/h0dev/0cs3/movie/TokuVN.cs3",
+        "name": "TokuVN"
+    },
+    {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/sieutamphim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
