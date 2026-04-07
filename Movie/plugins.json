@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/lock.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/lock.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
         "fileSize": 8878,
@@ -14,11 +14,11 @@
         "version": 1,
         "internalName": "MovieProvider",
         "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Extension/MovieProvider.cs3",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/MovieProvider.cs3",
         "name": "ActiveMoviePluginProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/animehay.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animehay.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 33971,
@@ -35,7 +35,7 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/animevietsub.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animevietsub.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 34406,
@@ -52,7 +52,7 @@
         "name": "AnimeVietsubProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/bluphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/bluphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 37870,
@@ -71,7 +71,7 @@
         "name": "BluPhimProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/hhkungfu.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhkungfu.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 30770,
@@ -90,7 +90,7 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/hhpanda.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhpanda.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 32339,
@@ -108,7 +108,7 @@
         "name": "HHPandaProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/hhtq.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhtq.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 34377,
@@ -127,7 +127,7 @@
         "name": "HHTQProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/holitv.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/holitv.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 36752,
@@ -147,7 +147,7 @@
         "name": "HoliTVProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/kkphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 46812,
@@ -166,7 +166,7 @@
         "name": "KKPhimProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/nguonc.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/nguonc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 51647,
@@ -185,7 +185,7 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/ophim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/ophim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 46639,
@@ -204,7 +204,7 @@
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/phimhdc.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimhdc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 39918,
@@ -223,7 +223,7 @@
         "name": "PhimHDCProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/phimlongtieng.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimlongtieng.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 30696,
@@ -242,7 +242,7 @@
         "name": "PhimLongTiengProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/phimmoi.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimmoi.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 35807,
@@ -260,7 +260,7 @@
         "name": "PhimMoiProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/phimtuoitho.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimtuoitho.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 32002,
@@ -280,7 +280,7 @@
         "name": "PhimTuoiThoProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/xem8z.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xem8z.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 29080,
@@ -298,7 +298,7 @@
         "name": "Xem8zProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/yanhh3d.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 37565,
@@ -317,7 +317,7 @@
         "name": "YanHH3DProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/icon/yumeianime.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yumeianime.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 28509,
