@@ -31,7 +31,7 @@
         ],
         "version": 12,
         "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeHayProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
@@ -48,7 +48,7 @@
         ],
         "version": 15,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeVietsubProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
@@ -67,7 +67,7 @@
         "version": 23,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/BluPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
         "name": "BluPhimProvider"
     },
     {
@@ -86,7 +86,7 @@
         "version": 6,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HHkungfuProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
         "name": "HHkungfuProvider"
     },
     {
@@ -104,7 +104,7 @@
         "version": 13,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HHPandaProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
@@ -123,7 +123,7 @@
         "version": 2,
         "internalName": "HHTQProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HHTQProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
         "name": "HHTQProvider"
     },
     {
@@ -143,7 +143,7 @@
         "version": 3,
         "internalName": "HoliTVProvider",
         "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HoliTVProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
         "name": "HoliTVProvider"
     },
     {
@@ -162,7 +162,7 @@
         ],
         "version": 11,
         "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/KKPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
@@ -181,7 +181,7 @@
         ],
         "version": 17,
         "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/NguonCProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
@@ -200,7 +200,7 @@
         ],
         "version": 12,
         "internalName": "OPhimProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/OPhimProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
@@ -219,7 +219,7 @@
         "version": 8,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimHDCProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
         "name": "PhimHDCProvider"
     },
     {
@@ -238,7 +238,7 @@
         "version": 17,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimLongTiengProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
@@ -256,7 +256,7 @@
         ],
         "version": 13,
         "internalName": "PhimMoiProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimMoiProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
     },
     {
@@ -276,7 +276,7 @@
         "version": 6,
         "internalName": "PhimTuoiThoProvider",
         "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimTuoiThoProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
         "name": "PhimTuoiThoProvider"
     },
     {
@@ -294,7 +294,7 @@
         ],
         "version": 4,
         "internalName": "Xem8zProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/Xem8zProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
     },
     {
@@ -313,7 +313,7 @@
         "version": 22,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/YanHH3DProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
         "name": "YanHH3DProvider"
     },
     {
@@ -332,7 +332,7 @@
         "version": 1,
         "internalName": "YumeiAnimeProvider",
         "description": "Pokemon v\u00e0 super sentai",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/YumeiAnimeProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
         "name": "YumeiAnimeProvider"
     }
 ]
