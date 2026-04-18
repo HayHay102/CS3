@@ -1,0 +1,133 @@
+[
+  {
+    "iconUrl": "https://ophim18.cc/assets/images/common/subteam_ophim.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HayHay102/CS3/main/Movie",
+    "fileSize": 29171,
+    "status": 1,
+    "authors": [
+      "dmin"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 15,
+    "internalName": "OphimProvider",
+    "description": "OPhim Provider",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/OphimProvider.cs3",
+    "name": "🎬 OPhim"
+  },
+  {
+    "iconUrl": "https://yanhh3d.so/favicon.ico",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HayHay102/CS3/main/Movie",
+    "fileSize": 31053,
+    "status": 1,
+    "authors": [
+      "dmin"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 48,
+    "internalName": "Yanhh3DProvider",
+    "description": "Yanhh3D Provider",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/Yanhh3DProvider.cs3",
+    "name": "Yanhh3DProvider"
+  },
+  {
+    "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HayHay102/CS3/main/Movie",
+    "fileSize": 25376,
+    "status": 1,
+    "authors": [
+      "dmin"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ],
+    "version": 34,
+    "internalName": "NguoncProvider",
+    "description": "Nguonc.com Provider",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/NguoncProvider.cs3",
+    "name": "Nguonc"
+  },
+  {
+    "iconUrl": "https://kkphim1.com/assets/img/favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/HayHay102/CS3/main/Movie",
+    "fileSize": 28757,
+    "status": 1,
+    "authors": [
+      "dmin"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "KkphimProvider",
+    "description": "KKPhim Provider",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/KkphimProvider.cs3",
+    "name": "KKPhim"
+  },
+  {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/sieutamphim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "SieuTamPhim",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/SieuTamPhim.cs3",
+        "name": "Siêu Tầm Phim"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimviet.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimViet",
+        "description": "4k-FullHD",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/PhimVieonBeta.cs3",
+        "name": "PhimViet"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Live",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "XoilacProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/XoilacProvider.cs3",
+        "name": "XoilacProvider"
+    }
+]
