@@ -1,18 +1,23 @@
 [
     {
         "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "fileHash": "sha256-7e980f2f9a5632a7a1525d9190c6784fc9e183f9d2d1e30266dcf85bc39bc2cc",
         "apiVersion": 1,
-        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 42324,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 42163,
         "status": 1,
         "authors": [
-            "anhdaden", "RowdyRushya"
+            "anhdaden",
+            "SIX"
         ],
-        "version": 9,
-        "internalName": "SyncProvider",
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 5,
+        "internalName": "1Sync",
         "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/SyncProvider.cs3",
-        "name": "Cross-Device Sync"
+        "url": "https://raw.githubusercontent.com/h0dev/0cs3/movie/1Sync.cs3",
+        "name": "1Sync"
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/TOTj0uMWp7cXkjXDXkcTZnPigUmpLRRiH956lHRJxStlY7ucxmtwMs_Kr2wOWYm0fSY=w240-h480-rw",
