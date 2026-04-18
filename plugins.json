@@ -166,7 +166,6 @@
     "description": "Youtube",
     "fileSize": 114801,
     "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "language": "tr",
     "tvTypes": [
       "Movie",
       "Live",
@@ -185,10 +184,9 @@
         "authors": [
             "RowdyRushya, Phisher98, DieGon"
         ],
-        "description": "Organizza homepage e sincronizza Continue Watching tra dispositivi",
+        "description": "Organize your homepage and sync Continue Watching between devices",
         "fileSize": 82868,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
         "tvTypes": [
             "All"
         ],
@@ -223,7 +221,7 @@
         "authors": [
             "RowdyRushya, Phisher98, DieGon"
         ],
-        "description": "Organizza homepage tra vari plugin",
+        "description": "Organize homepage across plugins",
         "fileSize": 51917,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
         "tvTypes": [
@@ -238,7 +236,6 @@
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 839591,
         "status": 1,
-        "language": "en",
         "authors": [
             "Phisher98",
             "Hexated"
@@ -325,24 +322,6 @@
         "name": "StremioAddon"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Linor"
-        ],
-        "tvTypes": [
-            "Live",
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "XoilacProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/XoilacProvider.cs3",
-        "name": "XoilacProvider"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
         "status": 1,
         "version": 7,
@@ -352,7 +331,7 @@
             "kraptor",
             "ByAyzen"
         ],
-        "description": "1950\u2019lerden g\u00fcn\u00fcm\u00fcze\u2026 40.000\u2019den fazla ma\u00e7 ve 100.000\u2019den fazla oyuncu.",
+        "description": "From the 1950s to the present… Over 40,000 matches and over 100,000 players.",
         "fileSize": 42559,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "tr",
