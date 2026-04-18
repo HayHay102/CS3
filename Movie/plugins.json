@@ -19,7 +19,7 @@
     "name": "🎬 OPhim"
   },
   {
-    "iconUrl": "https://yanhh3d.so/favicon.ico",
+    "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yanhh3d.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/HayHay102/CS3/main/Movie",
     "fileSize": 31053,
@@ -113,7 +113,7 @@
         "name": "PhimViet"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xoilac.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "status": 1,
