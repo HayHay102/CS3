@@ -1,21 +1,24 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Extension/SyncStream.cs3",
-        "status": 3,
-        "version": 4,
-        "name": "SyncStream",
-        "internalName": "SyncStream",
-        "authors": [
-            "RowdyRushya, Phisher98, DieGon"
-        ],
-        "description": "Organizza homepage e sincronizza Continue Watching tra dispositivi",
-        "fileSize": 82868,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
-        "tvTypes": [
-            "All"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
-        "apiVersion": 1
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "fileSize": 83500,
+    "status": 1,
+    "authors": [
+      "Abodabodd"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live",
+      "Anime",
+      "Music",
+      "Documentary"
+    ],
+    "version": 2,
+    "internalName": "YouTube",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Youtube.cs3",
+    "name": "YouTube"
     }
 ]
