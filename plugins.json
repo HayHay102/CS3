@@ -329,7 +329,7 @@
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Footballia",
         "internalName": "Footballia",
         "authors": [
@@ -337,13 +337,14 @@
             "ByAyzen"
         ],
         "description": "From the 1950s to the present… Over 40,000 matches and over 100,000 players.",
-        "fileSize": 42559,
+        "fileSize": 42547,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "language": "tr",
+        "language": "en",
         "tvTypes": [
             "Live"
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
-        "apiVersion": 1
+        "apiVersion": 1,
+        "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51"
     }
 ]
