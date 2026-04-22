@@ -279,7 +279,7 @@
         "description": "Videos, playlists and channels from YouTube",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/YouTubeProvider.cs3",
         "name": "YouTube2"
-    }
+    },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Footballia.cs3",
         "status": 1,
