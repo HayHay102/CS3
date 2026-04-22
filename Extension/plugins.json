@@ -243,19 +243,19 @@
         "name": "Youtube1",
         "internalName": "Youtube1",
         "authors": [
-           "Eagle",
-           "ByAyzen",
-           "Kraptor"
+            "Eagle",
+            "ByAyzen",
+            "Kraptor"
         ],
         "description": "Youtube",
         "fileSize": 115255,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
         "language": "tr",
         "tvTypes": [
-           "Movie",
-           "Live",
-           "Music",
-           "TvSeries"
+            "Movie",
+            "Live",
+            "Music",
+            "TvSeries"
         ],
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
         "apiVersion": 1,
