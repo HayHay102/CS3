@@ -22,24 +22,25 @@
    {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SyncStream.cs3",
         "status": 3,
-        "version": 4,
+        "version": 7,
         "name": "SyncStream",
         "internalName": "SyncStream",
         "authors": [
-            "RowdyRushya, Phisher98, DieGon"
+            "anhdaden",
+            "DieGon"
         ],
-        "description": "Organizza homepage e sincronizza Continue Watching tra dispositivi",
-        "fileSize": 82868,
+        "description": "Sincronizza Cloudstream tra dispositivi",
+        "fileSize": 46338,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
         "tvTypes": [
-            "All"
+            "Others"
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
-        "apiVersion": 1
+        "apiVersion": 1,
+        "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
     },
     {
-        "url": "httpshttps://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SectionOrganizer.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SectionOrganizer.cs3",
         "status": 3,
         "version": 3,
         "name": "SectionOrganizer",
@@ -48,13 +49,14 @@
             "RowdyRushya, Phisher98, DieGon"
         ],
         "description": "Organizza homepage tra vari plugin",
-        "fileSize": 51917,
+        "fileSize": 51924,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
         "tvTypes": [
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SectionOrganizer/SectionOrganizer_icon.png",
-        "apiVersion": 1
+        "apiVersion": 1,
+        "fileHash": "sha256-195c6a6781b99ddb2e7c53fcb1b75a26c9b43d3f882e3979a9d88e549b5127fa"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Ultima.cs3",
@@ -190,14 +192,17 @@
         "fileHash": "sha256-1d69227b3d4d58661ba1a846e80d06277ff9a33aaf399b0a04f53fa163cc90ed"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 631476,
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "status": 1,
+        "version": 410,
+        "name": "CineStream",
+        "internalName": "CineStream",
         "authors": [
             "megix"
         ],
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 667950,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -205,11 +210,9 @@
             "Anime",
             "Torrent"
         ],
-        "version": 391,
-        "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/CineStream.cs3",
-        "name": "CineStream"
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-86ffd029ee0ededb065ca22409ccaf948e7d9c934fe87674b87d100f478be59e"
     },
     {
     "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
@@ -260,22 +263,23 @@
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Footballia.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Footballia",
         "internalName": "Footballia",
         "authors": [
             "kraptor",
             "ByAyzen"
         ],
-        "description": "1950\u2019lerden g\u00fcn\u00fcm\u00fcze\u2026 40.000\u2019den fazla ma\u00e7 ve 100.000\u2019den fazla oyuncu.",
-        "fileSize": 42559,
+        "description": "From the 1950s to the present… Over 40,000 matches and more than 100,000 players.",
+        "fileSize": 42547,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "language": "tr",
+        "language": "en",
         "tvTypes": [
             "Live"
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
-        "apiVersion": 1
+        "apiVersion": 1,
+        "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
