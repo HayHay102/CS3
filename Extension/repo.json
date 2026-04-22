@@ -1,8 +1,0 @@
-{
-    "name": "HayHay Extension",
-    "description": "https://t.me/cloudstream_extension_vn",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/ZeroNos-Ext/Extension/plugins.json"
-    ]
-}
