@@ -236,50 +236,6 @@
         "name": "YouTube"
     },
     {
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/YouTubePlugin.cs3",
-        "status": 1,
-        "version": 34,
-        "name": "Youtube1",
-        "internalName": "Youtube1",
-        "authors": [
-            "Eagle",
-            "ByAyzen",
-            "Kraptor"
-        ],
-        "description": "Youtube",
-        "fileSize": 115255,
-        "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-        "language": "tr",
-        "tvTypes": [
-            "Movie",
-            "Live",
-            "Music",
-            "TvSeries"
-        ],
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-        "apiVersion": 1,
-        "fileHash": "sha256-637f25e6d5179ffa9d510e5e79c4cc5a83555c53ee45234df5d1f5327e37f341"
-    },
-    {
-        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "fileHash": "sha256-57182af5ae95e89a794ea47ba197edc2c45a7d771e0fbc07bc4ec7edaf8c988b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 38362,
-        "status": 1,
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 13,
-        "internalName": "YouTube2",
-        "description": "Videos, playlists and channels from YouTube",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/YouTubeProvider.cs3",
-        "name": "YouTube2"
-    },
-    {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Footballia.cs3",
         "status": 1,
         "version": 8,
