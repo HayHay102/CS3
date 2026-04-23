@@ -134,88 +134,46 @@
         "description": "Addon use Streamio",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/StremioProvider.cs3",
         "name": "StremioProvider"
-   },
-   {
-    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
-    "fileSize": 83500,
-    "status": 1,
-    "authors": [
-      "Abodabodd"
-    ],
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live",
-      "Anime",
-      "Music",
-      "Documentary"
-    ],
-    "version": 2,
-    "internalName": "YouTube",
-    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Youtube.cs3",
-    "name": "YouTube"
-    },
-    {
-    "url": "https://raw.githubusercontent.com/Kraptor123/cs-kraptor/builds/Youtube.cs3",
-    "status": 1,
-    "version": 34,
-    "name": "Youtube1",
-    "internalName": "Youtube1",
-    "authors": [
-      "Eagle",
-      "ByAyzen",
-      "Kraptor"
-    ],
-    "description": "Youtube",
-    "fileSize": 114801,
-    "repositoryUrl": "https://github.com/Kraptor123/cs-kraptor",
-    "tvTypes": [
-      "Movie",
-      "Live",
-      "Music",
-      "TvSeries"
-    ],
-    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-    "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SyncStream.cs3",
         "status": 3,
-        "version": 4,
+        "version": 7,
         "name": "SyncStream",
         "internalName": "SyncStream",
         "authors": [
-            "RowdyRushya, Phisher98, DieGon"
+            "anhdaden",
+            "DieGon"
         ],
-        "description": "Organize your homepage and sync Continue Watching between devices",
-        "fileSize": 82868,
+        "description": "Sincronizza Cloudstream tra dispositivi",
+        "fileSize": 46338,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
         "tvTypes": [
-            "All"
+            "Others"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
-        "apiVersion": 1
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SyncStream.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 367178,
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UltimaBeta.cs3",
         "status": 2,
-        "language": "en",
+        "version": 16,
+        "name": "UltimaBeta",
+        "internalName": "UltimaBeta",
         "authors": [
             "RowdyRushya,Phisher98"
         ],
+        "description": "(Beta)The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "fileSize": 365690,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
         "tvTypes": [
             "All"
         ],
-        "version": 16,
-        "internalName": "UltimaBeta",
-        "description": "(Beta)The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UltimaBeta.cs3",
-        "name": "UltimaBeta"
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-0ed6fa14b471b8fc901d164723c6a25be418f9ef18409878097734ce820414ea"
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SectionOrganizer.cs3",
@@ -226,25 +184,30 @@
         "authors": [
             "RowdyRushya, Phisher98, DieGon"
         ],
-        "description": "Organize homepage across plugins",
-        "fileSize": 51917,
+        "description": "Organizza homepage tra vari plugin",
+        "fileSize": 51924,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
         "tvTypes": [
             "All"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SectionOrganizer/SectionOrganizer_icon.png",
-        "apiVersion": 1
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SectionOrganizer.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-195c6a6781b99ddb2e7c53fcb1b75a26c9b43d3f882e3979a9d88e549b5127fa"
     },
     {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 839591,
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
+        "version": 619,
+        "name": "StreamPlay",
+        "internalName": "StreamPlay",
         "authors": [
             "Phisher98",
             "Hexated"
         ],
+        "description": "#1 best extention based on MultiAPI",
+        "fileSize": 900902,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
@@ -253,21 +216,44 @@
             "Cartoon",
             "AnimeMovie"
         ],
-        "version": 571,
-        "internalName": "StreamPlay",
-        "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
-        "name": "StreamPlay"
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "fileHash": "sha256-4a0963359e3c4acc41474168e5f021e67197daaadfd134ee75aa0ab470ef30d4"
     },
     {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "fileSize": 570696,
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
         "status": 1,
+        "version": 11,
+        "name": "StremioAddon",
+        "internalName": "StremioAddon",
+        "authors": [
+            "Hexated,phisher98,erynith"
+        ],
+        "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
+        "fileSize": 74448,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Torrent"
+        ],
+        "iconUrl": "https://files.catbox.moe/ol63rm.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-68b48d9c904514a62b9015a5b3e94d0c325e74c2052bbd8c3832486ec2f802a6"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "status": 1,
+        "version": 411,
+        "name": "CineStream",
+        "internalName": "CineStream",
         "authors": [
             "megix"
         ],
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "fileSize": 674074,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "tvTypes": [
             "TvSeries",
             "Movie",
@@ -275,11 +261,9 @@
             "Anime",
             "Torrent"
         ],
-        "version": 373,
-        "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-        "name": "CineStream"
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/CineStream.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ef10e77c0306c9369c6c80e8a28a2154d6d1abf55374b5dc35d78715f14ab2ec"
     },
     {
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
@@ -306,25 +290,26 @@
         "name": "TorraStream"
     },
     {
-        "iconUrl": "https://files.catbox.moe/ol63rm.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/Youtube.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 74727,
+        "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+        "fileSize": 142269,
         "status": 1,
-        "language": "en",
         "authors": [
-            "Hexated,phisher98,erynith"
+          "Abodabodd"
         ],
         "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Torrent"
+          "Movie",
+          "TvSeries",
+          "Live",
+          "Anime",
+          "Music",
+          "Documentary"
         ],
-        "version": 10,
-        "internalName": "StremioAddon",
-        "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
-        "name": "StremioAddon"
+        "version": 2,
+        "internalName": "YouTube",
+        "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Youtube.cs3",
+        "name": "YouTube"
     },
     {
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
@@ -336,7 +321,7 @@
             "kraptor",
             "ByAyzen"
         ],
-        "description": "From the 1950s to the present… Over 40,000 matches and over 100,000 players.",
+        "description": "From the 1950s to the present… Over 40,000 matches and more than 100,000 players.",
         "fileSize": 42547,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "language": "en",
