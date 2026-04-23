@@ -35,7 +35,7 @@
         "tvTypes": [
             "Others"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SyncStream.png",
         "apiVersion": 1,
         "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
     },
@@ -54,7 +54,7 @@
         "tvTypes": [
             "All"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SectionOrganizer/SectionOrganizer_icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SectionOrganizer.png",
         "apiVersion": 1,
         "fileHash": "sha256-195c6a6781b99ddb2e7c53fcb1b75a26c9b43d3f882e3979a9d88e549b5127fa"
     },
@@ -163,7 +163,7 @@
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/StremioX.png",
         "apiVersion": 1,
         "fileHash": "sha256-e87ba535734c3f672a5d3f9ef0bd982a3508ed1b3ccf86bd08fff7941ae0eb88"
     },
@@ -210,7 +210,7 @@
             "Anime",
             "Torrent"
         ],
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/CineStream.png",
         "apiVersion": 1,
         "fileHash": "sha256-ef10e77c0306c9369c6c80e8a28a2154d6d1abf55374b5dc35d78715f14ab2ec"
     },
@@ -240,8 +240,8 @@
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/YouTubePlugin.cs3",
         "status": 1,
         "version": 34,
-        "name": "Youtube1",
-        "internalName": "Youtube1",
+        "name": "YouTube1",
+        "internalName": "YouTube1",
         "authors": [
             "Eagle",
             "ByAyzen",
@@ -302,7 +302,7 @@
         "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xoilac.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "fileSize": 41382,
