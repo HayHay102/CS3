@@ -197,7 +197,7 @@
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
-        "version": 619,
+        "version": 620,
         "name": "StreamPlay",
         "internalName": "StreamPlay",
         "authors": [
@@ -205,7 +205,7 @@
             "Hexated"
         ],
         "description": "#1 best extention based on MultiAPI",
-        "fileSize": 900902,
+        "fileSize": 961585,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -218,7 +218,7 @@
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-4a0963359e3c4acc41474168e5f021e67197daaadfd134ee75aa0ab470ef30d4"
+        "fileHash": "sha256-eee336a92e3de95e5eea6ed69f703a7dc8e1fd38f7000b155238989502dbb96b"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
