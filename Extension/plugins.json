@@ -231,7 +231,7 @@
         "Music",
         "Documentary"
       ],
-      "version": 1,
+      "version": 2,
       "internalName": "YouTube",
       "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Youtube.cs3",
       "name": "YouTube"
