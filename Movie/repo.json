@@ -1,8 +1,0 @@
-{
-    "name": "HayHay Movie",
-    "description": "Kho lưu trữ Phim Lồng Tiếng - Thuyết Minh - Vietsub",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://raw.githubusercontent.com/HayHay102/CS3/refs/heads/main/Movie/plugins.json"
-    ]
-}
