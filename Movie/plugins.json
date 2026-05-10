@@ -18,21 +18,60 @@
         "name": "ActiveMoviePluginProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animehay.ico",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/holitv.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 43832,
+        "fileSize": 36752,
         "status": 1,
         "authors": [
             "anhdaden"
         ],
         "tvTypes": [
-            "Anime"
+            "Anime",
+            "TvSeries",
+            "Movie"
         ],
-        "version": 17,
-        "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
+        "version": 3,
+        "internalName": "HoliTVProvider",
+        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HoliTVProvider.cs3",
+        "name": "HoliTVProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimmoi.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 38388,
+        "status": 0,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 14,
+        "internalName": "PhimMoiProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimMoiProvider.cs3",
+        "name": "PhimMoiProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xem8z.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 29853,
+        "status": 0,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "Xem8zProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/Xem8zProvider.cs3",
+        "name": "Xem8zProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animevietsub.ico",
@@ -50,6 +89,23 @@
         "internalName": "AnimeVietsubProvider",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animehay.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 43832,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 17,
+        "internalName": "AnimeHayProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeHayProvider.cs3",
+        "name": "AnimeHayProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/bluphim.ico",
@@ -88,26 +144,6 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HHTQProvider.cs3",
         "name": "HHTQProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/holitv.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 36752,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "HoliTVProvider",
-        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HoliTVProvider.cs3",
-        "name": "HoliTVProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/kkphim.ico",
@@ -203,42 +239,6 @@
         "description": "Phim TVB, phim x\u01b0a",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimmoi.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 38388,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 14,
-        "internalName": "PhimMoiProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimMoiProvider.cs3",
-        "name": "PhimMoiProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xem8z.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 29853,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "Xem8zProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/Xem8zProvider.cs3",
-        "name": "Xem8zProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yanhh3d.ico",
