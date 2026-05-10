@@ -3,7 +3,7 @@
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/lock.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 8878,
+        "fileSize": 9074,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -14,14 +14,14 @@
         "version": 1,
         "internalName": "MovieProvider",
         "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
-        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/MovieProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Extension/MovieProvider.cs3",
         "name": "ActiveMoviePluginProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/animehay.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33971,
+        "fileSize": 43832,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -29,9 +29,9 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "version": 17,
         "internalName": "AnimeHayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
@@ -39,7 +39,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 34406,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
@@ -48,14 +48,14 @@
         ],
         "version": 15,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/bluphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 37870,
+        "fileSize": 50648,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -64,54 +64,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/BluPhimProvider.cs3",
         "name": "BluPhimProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhkungfu.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 30770,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 6,
-        "internalName": "HHkungfuProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
-        "name": "HHkungfuProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhpanda.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 32339,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 13,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/hhtq.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 34377,
+        "fileSize": 42507,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -120,10 +83,10 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "HHTQProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HHTQProvider.cs3",
         "name": "HHTQProvider"
     },
     {
@@ -143,14 +106,14 @@
         "version": 3,
         "internalName": "HoliTVProvider",
         "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/HoliTVProvider.cs3",
         "name": "HoliTVProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46812,
+        "fileSize": 58191,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -160,16 +123,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 13,
         "internalName": "KKPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/nguonc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51647,
+        "fileSize": 62531,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -179,16 +142,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "NguonCProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/ophim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46639,
+        "fileSize": 57639,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -198,16 +161,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "OPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimhdc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 39918,
+        "fileSize": 50077,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -216,17 +179,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 12,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimHDCProvider.cs3",
         "name": "PhimHDCProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimlongtieng.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 30696,
+        "fileSize": 40986,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -235,56 +198,36 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 19,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimmoi.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 35807,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "PhimMoiProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
-        "name": "PhimMoiProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/phimtuoitho.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 32002,
+        "fileSize": 38388,
         "status": 0,
         "authors": [
             "anhdaden"
         ],
         "tvTypes": [
-            "Anime",
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
-        "internalName": "PhimTuoiThoProvider",
-        "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
-        "name": "PhimTuoiThoProvider"
+        "version": 14,
+        "internalName": "PhimMoiProvider",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/PhimMoiProvider.cs3",
+        "name": "PhimMoiProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xem8z.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 29080,
-        "status": 1,
+        "fileSize": 29853,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
@@ -292,16 +235,16 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Xem8zProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 37565,
+        "fileSize": 51798,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -310,17 +253,17 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 22,
+        "version": 27,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/YanHH3DProvider.cs3",
         "name": "YanHH3DProvider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/yumeianime.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 28509,
+        "fileSize": 36274,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -329,10 +272,10 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "YumeiAnimeProvider",
         "description": "Pokemon v\u00e0 super sentai",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/CloudstreamVN/Movie/YumeiAnimeProvider.cs3",
         "name": "YumeiAnimeProvider"
     }
 ]
