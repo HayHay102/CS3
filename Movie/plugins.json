@@ -16,7 +16,7 @@
     "version": 15,
     "internalName": "OphimProvider",
     "description": "OPhim Provider",
-    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/OphimProvider.cs3",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/OphimProvider.cs3",
     "name": "🎬 OPhim"
   },
   {
@@ -35,7 +35,7 @@
     "version": 48,
     "internalName": "Yanhh3DProvider",
     "description": "Yanhh3D Provider",
-    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/Yanhh3DProvider.cs3",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/Yanhh3DProvider.cs3",
     "name": "Yanhh3DProvider"
   },
   {
@@ -55,7 +55,7 @@
     "version": 34,
     "internalName": "NguoncProvider",
     "description": "Nguonc.com Provider",
-    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/NguoncProvider.cs3",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/NguoncProvider.cs3",
     "name": "Nguonc"
   },
   {
@@ -75,7 +75,7 @@
     "version": 1,
     "internalName": "KkphimProvider",
     "description": "KKPhim Provider",
-    "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/KkphimProvider.cs3",
+    "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/KkphimProvider.cs3",
     "name": "KKPhim"
   },
   {
@@ -94,7 +94,7 @@
         ],
         "version": 2,
         "internalName": "SieuTamPhim",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/SieuTamPhim.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/SieuTamPhim.cs3",
         "name": "Siêu Tầm Phim"
     },
     {
@@ -113,7 +113,7 @@
         "version": 2,
         "internalName": "PhimViet",
         "description": "4k-FullHD",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/PhimVieonBeta.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/PhimVieonBeta.cs3",
         "name": "PhimViet"
     },
     {
@@ -131,7 +131,7 @@
         ],
         "version": 2,
         "internalName": "XoilacProvider",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Movie/XoilacProvider.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/HoPham/Movie/XoilacProvider.cs3",
         "name": "XoilacProvider"
     }
 ]
