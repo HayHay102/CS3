@@ -156,24 +156,24 @@
         "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
     },
     {
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UltimaBeta.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
         "status": 2,
-        "version": 16,
-        "name": "UltimaBeta",
-        "internalName": "UltimaBeta",
+        "version": 35,
+        "name": "Ultima",
+        "internalName": "Ultima",
         "authors": [
             "RowdyRushya,Phisher98"
         ],
-        "description": "(Beta)The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-        "fileSize": 365690,
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "fileSize": 209621,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
             "All"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-0ed6fa14b471b8fc901d164723c6a25be418f9ef18409878097734ce820414ea"
+        "fileHash": "sha256-62d5190ffb744679e2effe97eac34a2d987cd24ec124f55e1a45d7e27c0702a7"
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SectionOrganizer.cs3",
