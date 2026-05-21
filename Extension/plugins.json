@@ -39,6 +39,26 @@
         "apiVersion": 1,
         "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
     },
+   {
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "fileHash": "sha256-34e6a12e23966aed9904e6959c3efd76ad3c14379aace0aa202e9381cd600987",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+        "fileSize": 37381,
+        "status": 1,
+        "authors": [
+            "anhdaden",
+            "dogior"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "IPTV",
+        "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
+        "name": "IPTV"
+    },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SectionOrganizer.cs3",
         "status": 3,
