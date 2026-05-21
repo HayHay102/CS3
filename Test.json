@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://git.disroot.org/ayza/FStream/raw/branch/main/plugins.json"
+      "https://github.com/hexated/cloudstream-extensions-hexated/raw/refs/heads/builds/plugins.json"
     ]
 }
