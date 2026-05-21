@@ -56,7 +56,7 @@
         "version": 1,
         "internalName": "IPTV",
         "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
-        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/IPTV.cs3",
         "name": "IPTV"
     },
     {
