@@ -1,0 +1,8 @@
+{
+    "name": "HayHay Test",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/refs/heads/builds/plugins.json"
+    ]
+}
