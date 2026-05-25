@@ -20,24 +20,19 @@
         "name": "1Sync"
    },
    {
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SyncStream.cs3",
-        "status": 3,
-        "version": 7,
-        "name": "SyncStream",
-        "internalName": "SyncStream",
-        "authors": [
-            "anhdaden",
-            "DieGon"
-        ],
-        "description": "Sincronizza Cloudstream tra dispositivi",
-        "fileSize": 46338,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "tvTypes": [
-            "Others"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SyncStream.png",
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 42324,
+        "status": 1,
+        "authors": [
+            "anhdaden", "RowdyRushya"
+        ],
+        "version": 9,
+        "internalName": "SyncProvider",
+        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SyncProvider.cs3",
+        "name": "Cross-Device Sync"
     },
     {
         "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
