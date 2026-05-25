@@ -288,9 +288,10 @@
     },
     {
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "fileHash": "sha256-9ac571a5ac4b17eebc6e225a51d51e161339d2b8433030d2fc0e53f047699958",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 191489,
+        "fileSize": 193058,
         "status": 1,
         "language": "en",
         "authors": [
@@ -307,7 +308,7 @@
         "version": 5,
         "internalName": "TorraStream",
         "description": "",
-        "url": "https://raw.githubusercontent.com/h0dev/0cs3/movie/TorraStream.cs3",
+        "url": "https://0cs3.onii.pp.ua/movie/TorraStream.cs3",
         "name": "TorraStream"
     },
     {
