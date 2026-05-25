@@ -99,26 +99,6 @@
         "fileHash": "sha256-5565a694bf537c38f54ee1d2e8c74961ce830c186f175d77e4be109abcf9c465"
     },
     {
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/UltimaBeta.cs3",
-        "status": 2,
-        "version": 16,
-        "name": "UltimaBeta",
-        "internalName": "UltimaBeta",
-        "authors": [
-            "RowdyRushya,Phisher98"
-        ],
-        "description": "(Beta)The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
-        "fileSize": 365690,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "language": "en",
-        "tvTypes": [
-            "All"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/UltimaBeta.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-0ed6fa14b471b8fc901d164723c6a25be418f9ef18409878097734ce820414ea"
-    },
-    {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StreamPlay.cs3",
         "status": 1,
         "version": 620,
