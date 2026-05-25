@@ -20,7 +20,7 @@
         "name": "1Sync"
    },
    {
-        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SyncStream.png",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
         "fileSize": 42324,
