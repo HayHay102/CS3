@@ -3,6 +3,6 @@
     "description": "https://t.me/cloudstream_extension_vn",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json"
+      "https://github.com/HayHay102/CS3/raw/refs/heads/main/testplugins.json"
     ]
 }
