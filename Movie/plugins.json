@@ -135,24 +135,6 @@
         "name": "Animet"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://Animetm.tv&sz=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 14494,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 4,
-        "internalName": "Animetm",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animetm.cs3",
-        "name": "Animetm"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://animevietsub.lol&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
@@ -215,7 +197,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
         "fileSize": 24905,
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "SIX"
@@ -287,24 +269,6 @@
         "name": "Hhninja"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=http://HHTQ4K.top&sz=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 18494,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 3,
-        "internalName": "HHTQ4K",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HHTQ4K.cs3",
-        "name": "HHTQ4K"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://hoathinh3d.name&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
@@ -321,24 +285,6 @@
         "internalName": "HoatHinh3D",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinh3D.cs3",
         "name": "HoatHinh3D"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://HHKungfu.click&sz=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 15116,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Cartoon"
-        ],
-        "version": 2,
-        "internalName": "HoatHinhKungfu",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinhKungfu.cs3",
-        "name": "HoatHinhKungfu"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://kkphim.com&sz=256",
@@ -359,26 +305,6 @@
         "internalName": "KKPhim",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/KKPhim.cs3",
         "name": "KKPhim"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://LongTiengPhim.com&sz=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 14417,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Anime",
-            "TvSeries"
-        ],
-        "version": 3,
-        "internalName": "LongTiengPhim",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/LongTiengPhim.cs3",
-        "name": "LongTiengPhim"
     },
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
@@ -517,27 +443,6 @@
         "name": "PhimHHTQ"
     },
     {
-        "iconUrl": "https://favicone.com/phimmoichill.bz?s=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 20278,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Anime",
-            "TvSeries",
-            "AnimeMovie"
-        ],
-        "version": 4,
-        "internalName": "PhimMoiPlus",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimMoiPlus.cs3",
-        "name": "PhimMoiPlus"
-    },
-    {
         "iconUrl": "https://icons.duckduckgo.com/ip3/PhimSea.com.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
@@ -620,26 +525,6 @@
         "description": "",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/TorraStream.cs3",
         "name": "TorraStream"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://vietsubtv.run&sz=256",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 21545,
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "SIX"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Anime",
-            "TvSeries"
-        ],
-        "version": 4,
-        "internalName": "VietsubTV",
-        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/VietsubTV.cs3",
-        "name": "VietsubTV"
     },
     {
         "iconUrl": "https://icons.duckduckgo.com/ip3/vsmov.com.ico",
