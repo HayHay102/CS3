@@ -66,7 +66,7 @@
     "description": "M3UPlayer is an M3U player. It does not store any M3U files! You can add them yourself by clicking the settings button.",
     "fileSize": 91964,
     "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
-    "language": "tr",
+    "language": "en",
     "tvTypes": [
       "Live"
     ],
