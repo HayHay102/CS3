@@ -185,23 +185,23 @@
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Stremio.cs3",
         "status": 3,
-        "version": 10,
+        "version": 14,
         "name": "Stremio",
         "internalName": "Stremio",
         "authors": [
             "Hexated, phisher98, DieGon"
         ],
-        "description": "[!!!] Configurazione\n- StremioX: per utilizzare addons di streaming\n- StremioC: per utilizzare addons di catalogo",
-        "fileSize": 122328,
+        "description": "Addon di Stremio su Cloudstream",
+        "fileSize": 104825,
         "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
-        "language": "it",
+        "language": "en",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/Stremio/stremio_icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3abe56e6f6372c0a0314988c32d41f5dfea4297bfaaba42b08bb4d24d94bc549"
+        "fileHash": "sha256-cef8e134307f0db1a5fcb1a1ad7b29ba1aa52736ba9f0806ed241ba62f215ad8"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/TorraStream.cs3",
