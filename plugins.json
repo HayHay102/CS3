@@ -58,6 +58,26 @@
         "name": "IPTVProvider"
     },
     {
+    "url": "https://raw.githubusercontent.com/ByAyzen/AyzenCS3/builds/M3UPlayer.cs3",
+    "status": 1,
+    "version": 12,
+    "name": "M3UPlayer",
+    "internalName": "M3UPlayer",
+    "authors": [
+      "ByAyzen"
+    ],
+    "description": "M3UPlayer bir m3u oynatıcısıdır. İçerisinde hiç bir M3U dosyasını barındırmaz! Ayarlar butonuna tıklayarak kendiniz ekleyebilirsiniz.",
+    "fileSize": 91964,
+    "repositoryUrl": "https://github.com/ByAyzen/AyzenCS3",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://i.imgur.com/BsS4wRT.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
+    },
+    {
         "iconUrl": "https://monplayer.org/images/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
