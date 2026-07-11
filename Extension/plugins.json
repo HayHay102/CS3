@@ -69,7 +69,7 @@
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1,
+    "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SectionOrganizer.cs3",
@@ -87,7 +87,7 @@
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SectionOrganizer.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Ultima.cs3",
@@ -106,7 +106,7 @@
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StreamPlay.cs3",
@@ -131,7 +131,7 @@
             "AnimeMovie"
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StremioAddon.cs3",
@@ -152,7 +152,7 @@
             "Torrent"
         ],
         "iconUrl": "https://files.catbox.moe/ol63rm.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StremioX.cs3",
@@ -172,7 +172,7 @@
             "Movie"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/StremioX.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Stremio.cs3",
@@ -192,7 +192,7 @@
             "Movie"
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/Stremio/stremio_icon.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/TorraStream.cs3",
@@ -215,7 +215,7 @@
             "Anime"
         ],
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/CineStream.cs3",
@@ -237,7 +237,7 @@
             "Torrent"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/CineStream.png",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
       "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/Youtube.png",
@@ -301,7 +301,7 @@
       "TvSeries"
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
-    "apiVersion": 1,
+    "apiVersion": 1
   },
   {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Footballia.cs3",
@@ -321,7 +321,7 @@
             "Live"
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
-        "apiVersion": 1,
+        "apiVersion": 1
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xoilac.png",
