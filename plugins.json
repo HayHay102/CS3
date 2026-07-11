@@ -1,7 +1,6 @@
 [
     {
         "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
-        "fileHash": "sha256-bd01399c6b297ce287570c055a90b891241ace156b0bac84bfe5d171d4db8194",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
         "fileSize": 42622,
@@ -74,8 +73,7 @@
       "Live"
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
+    "apiVersion": 1
     },
     {
         "iconUrl": "https://monplayer.org/images/favicon.ico",
@@ -172,8 +170,7 @@
             "Others"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SyncStream.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-a19953ab1b3eacb003659443f7253eeb88cafc3d3bce5956fe4383b657a82e60"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
@@ -192,8 +189,7 @@
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-62d5190ffb744679e2effe97eac34a2d987cd24ec124f55e1a45d7e27c0702a7"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SectionOrganizer.cs3",
@@ -211,8 +207,7 @@
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SectionOrganizer.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-195c6a6781b99ddb2e7c53fcb1b75a26c9b43d3f882e3979a9d88e549b5127fa"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
@@ -237,8 +232,7 @@
             "AnimeMovie"
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "fileHash": "sha256-eee336a92e3de95e5eea6ed69f703a7dc8e1fd38f7000b155238989502dbb96b"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioX.cs3",
@@ -258,8 +252,7 @@
             "Movie"
         ],
         "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-cfb2f5a5c7ad1f306c6747fb4eb077391c01112069376d9a2004579ef8086035"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
@@ -280,8 +273,7 @@
             "Torrent"
         ],
         "iconUrl": "https://files.catbox.moe/ol63rm.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-68b48d9c904514a62b9015a5b3e94d0c325e74c2052bbd8c3832486ec2f802a6"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
@@ -303,12 +295,10 @@
             "Torrent"
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/CineStream.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-ef10e77c0306c9369c6c80e8a28a2154d6d1abf55374b5dc35d78715f14ab2ec"
+        "apiVersion": 1
     },
     {
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
-        "fileHash": "sha256-9ac571a5ac4b17eebc6e225a51d51e161339d2b8433030d2fc0e53f047699958",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
         "fileSize": 193058,
@@ -371,7 +361,6 @@
             "Live"
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
-        "apiVersion": 1,
-        "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51"
+        "apiVersion": 1
     }
 ]
