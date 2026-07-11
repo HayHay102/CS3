@@ -1,7 +1,6 @@
 [
    {
         "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
-        "fileHash": "sha256-7e980f2f9a5632a7a1525d9190c6784fc9e183f9d2d1e30266dcf85bc39bc2cc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
         "fileSize": 42163,
@@ -36,7 +35,6 @@
     },
     {
         "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
-        "fileHash": "sha256-34e6a12e23966aed9904e6959c3efd76ad3c14379aace0aa202e9381cd600987",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "fileSize": 37381,
@@ -72,7 +70,6 @@
     ],
     "iconUrl": "https://i.imgur.com/BsS4wRT.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b70a88b3ed309391a5dc48f49c22321b418535f670034595940a5941ea7d3ed9"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/SectionOrganizer.cs3",
@@ -91,7 +88,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/SectionOrganizer.png",
         "apiVersion": 1,
-        "fileHash": "sha256-195c6a6781b99ddb2e7c53fcb1b75a26c9b43d3f882e3979a9d88e549b5127fa"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Ultima.cs3",
@@ -111,7 +107,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-5565a694bf537c38f54ee1d2e8c74961ce830c186f175d77e4be109abcf9c465"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StreamPlay.cs3",
@@ -137,7 +132,6 @@
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-eee336a92e3de95e5eea6ed69f703a7dc8e1fd38f7000b155238989502dbb96b"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StremioAddon.cs3",
@@ -159,7 +153,6 @@
         ],
         "iconUrl": "https://files.catbox.moe/ol63rm.png",
         "apiVersion": 1,
-        "fileHash": "sha256-68b48d9c904514a62b9015a5b3e94d0c325e74c2052bbd8c3832486ec2f802a6"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/StremioX.cs3",
@@ -180,7 +173,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/StremioX.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e87ba535734c3f672a5d3f9ef0bd982a3508ed1b3ccf86bd08fff7941ae0eb88"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Stremio.cs3",
@@ -201,7 +193,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/Stremio/stremio_icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-cef8e134307f0db1a5fcb1a1ad7b29ba1aa52736ba9f0806ed241ba62f215ad8"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/TorraStream.cs3",
@@ -225,7 +216,6 @@
         ],
         "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1d69227b3d4d58661ba1a846e80d06277ff9a33aaf399b0a04f53fa163cc90ed"
     },
     {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/CineStream.cs3",
@@ -248,7 +238,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/CineStream.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ef10e77c0306c9369c6c80e8a28a2154d6d1abf55374b5dc35d78715f14ab2ec"
     },
     {
       "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/Youtube.png",
@@ -313,7 +302,6 @@
     ],
     "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.youtube.com/&size=128",
     "apiVersion": 1,
-    "fileHash": "sha256-bc2dd3d95f4b87ed90ebb0e9bf4bbd5998afda2d8cdfa28f6669c71e799272ba"
   },
   {
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/Footballia.cs3",
@@ -334,7 +322,6 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
         "apiVersion": 1,
-        "fileHash": "sha256-e46f0a3059721790667e788c8a6ce93356a366f10a25ef2536cbdf2fc392fd51"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/HayHay102/CS3/main/icon/xoilac.png",
