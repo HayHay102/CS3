@@ -274,7 +274,6 @@
     },
     {
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "fileHash": "sha256-57182af5ae95e89a794ea47ba197edc2c45a7d771e0fbc07bc4ec7edaf8c988b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "fileSize": 38362,
