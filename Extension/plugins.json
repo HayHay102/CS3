@@ -265,7 +265,7 @@
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-        "fileSize": 38362,
+        "fileSize": 40001,
         "status": 1,
         "authors": [
             "doGior"
@@ -273,7 +273,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "YouTube1",
         "description": "Videos, playlists and channels from YouTube",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/main/Extension/YouTube1.cs3",
