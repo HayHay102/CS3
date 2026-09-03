@@ -3,7 +3,7 @@
         "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 42622,
+        "fileSize": 67268,
         "status": 1,
         "authors": [
             "anhdaden",
@@ -12,7 +12,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "1Sync",
         "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/1Sync.cs3",
@@ -22,7 +22,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://Anikoto.to&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 26356,
+        "fileSize": 29118,
         "status": 1,
         "language": "en",
         "authors": [
@@ -33,7 +33,7 @@
             "Movie",
             "OVA"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "Anikoto",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikoto.cs3",
         "name": "Anikoto"
@@ -42,7 +42,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/anikuro.ru.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 34655,
+        "fileSize": 42223,
         "status": 1,
         "language": "en",
         "authors": [
@@ -51,7 +51,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "Anikuro",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anikuro.cs3",
         "name": "Anikuro"
@@ -60,7 +60,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/Anime47.best.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 39345,
+        "fileSize": 51821,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -69,7 +69,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 11,
+        "version": 15,
         "internalName": "Anime47",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Anime47.cs3",
         "name": "Anime47"
@@ -78,7 +78,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://animehay.bid&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 26549,
+        "fileSize": 30993,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -89,7 +89,7 @@
             "Anime",
             "OVA"
         ],
-        "version": 12,
+        "version": 16,
         "internalName": "Animehay",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animehay.cs3",
         "name": "Animehay"
@@ -98,7 +98,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/anikai.to.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 31300,
+        "fileSize": 31952,
         "status": 1,
         "language": "en",
         "authors": [
@@ -107,7 +107,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "AnimeKai",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeKai.cs3",
         "name": "AnimeKai"
@@ -116,7 +116,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://anime6.site&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 30594,
+        "fileSize": 51629,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -129,7 +129,7 @@
             "Cartoons",
             "TvSeries"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "Animet",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animet.cs3",
         "name": "Animet"
@@ -138,7 +138,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://animevietsub.lol&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 38304,
+        "fileSize": 50199,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -149,7 +149,7 @@
             "Cartoon",
             "Movie"
         ],
-        "version": 20,
+        "version": 30,
         "internalName": "Animevietsub",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Animevietsub.cs3",
         "name": "Animevietsub"
@@ -158,7 +158,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/animex.one.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 41117,
+        "fileSize": 40413,
         "status": 1,
         "language": "en",
         "authors": [
@@ -167,16 +167,37 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 3,
+        "version": 5,
         "internalName": "AnimeX",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/AnimeX.cs3",
         "name": "AnimeX"
     },
     {
+        "iconUrl": "https://www.asu.baby/favicon.ico",
+        "fileHash": "sha256-f55430bea4e910f03573fad4b249cb5345400e31ff4fc0a0870011defe16b1dc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 41685,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Cartoon",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "ASUPNIMER",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/ASUPNIMER.cs3",
+        "name": "ASUPNIMER"
+    },
+    {
         "iconUrl": "https://icons.duckduckgo.com/ip3/bluphim5.com.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 26376,
+        "fileSize": 33411,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -187,7 +208,7 @@
             "Anime",
             "TvSeries"
         ],
-        "version": 4,
+        "version": 7,
         "internalName": "BluPhim",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/BluPhim.cs3",
         "name": "BluPhim"
@@ -212,6 +233,49 @@
         "internalName": "Boctem",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Boctem.cs3",
         "name": "Boctem"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://clbphimxua.com&sz=256",
+        "fileHash": "sha256-f32b6de500f7c8153164aede6680802c085a72b92f0f34be36373be47b8da366",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 41665,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "CLBPhimXua",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/CLBPhimXua.cs3",
+        "name": "CLBPhimXua"
+    },
+    {
+        "iconUrl": "https://hdvnn.xyz/assets/favico.png",
+        "fileHash": "sha256-0c7bd3b3df906fc854a9498f03cd1b5b2f884423d7d0b4cd77bc87614cef33b2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 44097,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "HDVNN",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HDVNN.cs3",
+        "name": "HDVNN"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://HHDRagon.com&sz=256",
@@ -272,7 +336,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=http://hoathinh3d.name&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 23794,
+        "fileSize": 40930,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -281,7 +345,7 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "HoatHinh3D",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/HoatHinh3D.cs3",
         "name": "HoatHinh3D"
@@ -290,7 +354,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://kkphim.com&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 27637,
+        "fileSize": 32488,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -301,7 +365,7 @@
             "Anime",
             "TvSeries"
         ],
-        "version": 9,
+        "version": 11,
         "internalName": "KKPhim",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/KKPhim.cs3",
         "name": "KKPhim"
@@ -310,7 +374,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 31493,
+        "fileSize": 39580,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -321,7 +385,7 @@
             "Anime",
             "TvSeries"
         ],
-        "version": 12,
+        "version": 16,
         "internalName": "NguonC",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/NguonC.cs3",
         "name": "NguonC"
@@ -330,7 +394,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://onflix.pro&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 20282,
+        "fileSize": 49995,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -340,7 +404,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 3,
+        "version": 6,
         "internalName": "Onflix",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Onflix.cs3",
         "name": "Onflix"
@@ -388,7 +452,7 @@
         "iconUrl": "https://raw.githubusercontent.com/rupanh123-phap/PHAPFERRARI.github.io/refs/heads/main/phimdinhcao.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 31954,
+        "fileSize": 36765,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -398,7 +462,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 6,
+        "version": 8,
         "internalName": "PhimDinhCao",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimDinhCao.cs3",
         "name": "PhimDinhCao"
@@ -407,7 +471,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://PhimHDCS.com&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 37372,
+        "fileSize": 41629,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -419,7 +483,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 1,
+        "version": 3,
         "internalName": "PhimHDCS",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimHDCS.cs3",
         "name": "PhimHDCS"
@@ -446,7 +510,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/PhimSea.com.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 27108,
+        "fileSize": 44191,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -457,7 +521,7 @@
             "Anime",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 6,
         "internalName": "PhimSea",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/PhimSea.cs3",
         "name": "PhimSea"
@@ -466,7 +530,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/ridomovies.tv.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 22104,
+        "fileSize": 39353,
         "status": 1,
         "language": "en",
         "authors": [
@@ -476,10 +540,32 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "RidoMovies",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/RidoMovies.cs3",
         "name": "RidoMovies"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.sieutamphim.pro&sz=256",
+        "fileHash": "sha256-ad685167743888f149b162df6bede5ff52d066a0ea32aa36c04c85560c0ff144",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 53349,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "Sieutamphim",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Sieutamphim.cs3",
+        "name": "Sieutamphim"
     },
     {
         "iconUrl": "https://icons.duckduckgo.com/ip3/TokuVN.com.ico",
@@ -530,7 +616,7 @@
         "iconUrl": "https://icons.duckduckgo.com/ip3/vsmov.com.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 17587,
+        "fileSize": 34790,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -541,16 +627,37 @@
             "Anime",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "VSMOV",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/VSMOV.cs3",
         "name": "VSMOV"
     },
     {
+        "iconUrl": "https://xem20.net/storage/poster1/download.jpg",
+        "fileHash": "sha256-49bf1752f37df8b5aa1dd9c8aaeeb2bf852653658ae5e5cf55b72c3cd1ee53fd",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 46093,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Xem20",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Xem20.cs3",
+        "name": "Xem20"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://Yanhh3d.vip&sz=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 33667,
+        "fileSize": 37759,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -559,9 +666,32 @@
         "tvTypes": [
             "Cartoon"
         ],
-        "version": 7,
+        "version": 13,
         "internalName": "Yanhh3d",
         "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/Yanhh3d.cs3",
         "name": "Yanhh3d"
+    },
+    {
+        "iconUrl": "https://yumei-anime.com/favicon.ico",
+        "fileHash": "sha256-1533c6b073bf66c6992e8c3edc17ef7c4f040a8716aebcacc606fa5d07147bbb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h0dev/0cs3",
+        "fileSize": 34915,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA",
+            "Cartoon",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "YumeiAnime",
+        "url": "https://raw.githubusercontent.com/HayHay102/CS3/ZeroNos-Ext/Movie/YumeiAnime.cs3",
+        "name": "YumeiAnime"
     }
 ]
