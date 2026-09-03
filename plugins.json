@@ -3,7 +3,7 @@
         "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/h0dev/0cs3",
-        "fileSize": 42622,
+        "fileSize": 67268,
         "status": 1,
         "authors": [
             "anhdaden",
@@ -12,7 +12,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "1Sync",
         "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
         "url": "https://raw.githubusercontent.com/h0dev/0cs3/movie/1Sync.cs3",
